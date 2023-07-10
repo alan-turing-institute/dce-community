@@ -1,12 +1,37 @@
-# Data Centric Engineering
+# Data-Centric Engineering Community (DCE-Community)
 
-....
+[DCE 2.0 Image]
 
 **Maintainers**
 
 This repository is maintained by Gabin Kayumbi, Senior Research Community Manager of Data Centric Engineering.
 
 *Please create [an issue](../../issues) to report any bug, or share suggestions for the development of this project.*
+
+Welcome to community repository for the Data-Centric Engineering Community (DCE - Community)! 🎉 Here you will find the community related documentation from the DCE Programme.
+
+🎯 Background
+---
+🎯Project members
+
+---
+ORGANIGRAM + pictures ?
+
+🎯 Projects
+
+Current 
+
+Past
+
+🎯 Events
+
+- links to calendars, newletters?
+
+🎯 Communication channel
+
+
+🎯 Resources
+
 
 🎯 Community Roadmap
 ---
