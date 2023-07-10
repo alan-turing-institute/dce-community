@@ -13,25 +13,24 @@ Welcome to community repository for the Data-Centric Engineering Community (DCE 
 🎯 Background
 ---
 🎯Project members
-
 ---
 ORGANIGRAM + pictures ?
 
 🎯 Projects
-
+---
 Current 
 
 Past
 
 🎯 Events
-
+---
 - links to calendars, newletters?
 
 🎯 Communication channel
-
+---
 
 🎯 Resources
-
+---
 
 🎯 Community Roadmap
 ---
