@@ -22,15 +22,20 @@ Current
 
 Past
 
+Future
+
 🎯 Events
 ---
 - links to calendars, newletters?
 
 🎯 Communication channel
 ---
+- External
+- Internal
 
 🎯 Resources
 ---
+DCE community map
 
 🎯 Community Roadmap
 ---
