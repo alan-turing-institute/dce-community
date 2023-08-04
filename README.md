@@ -1,10 +1,18 @@
 # Data-Centric Engineering Community (DCE-Community)
 
+Building on the successes of the LRF-Turing Strategic Partnership, and creation of DCE as a genuine discipline, there is the need to accelerate community building to establish a “Commonwealth of Turing Talents” which capitalises on research strengths from across the 
+Turing, and also connect further into data science and engineering communities in the UK and overseas. 
+DCE community crosses disciplines, sectors, and geographies, and we want it to be as  inclusive as possible. We want to expand our community so that we continue to attract the best researchers from across the UK, foster national and international collaboration. Reassessing how we 
+work with universities to ensure we maximise on the UK’s full potential will be a cornerstone 
+of this effort.
+We also want to be flexible in meeting the growing interest from industry by working with a bigger cross-section of industry partners through a wider variety of mechanisms. We want to stimulate new investment and sectors through showcasing the latest research and acting as 
+a trusted broker between industry, academia, and regulators.
+
 [DCE 2.0 Image]
 
 **Maintainers**
 
-This repository is maintained by Gabin Kayumbi, Senior Research Community Manager of Data Centric Engineering.
+This repository is maintained by Gabin Kayumbi, Senior Research Community Manager (SRCM) of Data Centric Engineering (DCE).
 
 *Please create [an issue](../../issues) to report any bug, or share suggestions for the development of this project.*
 
@@ -12,6 +20,8 @@ Welcome to community repository for the Data-Centric Engineering Community (DCE 
 
 🎯 Background
 ---
+
+
 🎯Project members
 ---
 ORGANIGRAM + pictures ?
