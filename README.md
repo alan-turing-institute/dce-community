@@ -9,8 +9,8 @@ This repository is maintained by Gabin Kayumbi, Senior Research Community Manage
 *Please create [an issue](../../issues) to report any bug, or share suggestions for the development of this project.*
 
 
-🎯 Background
-
+🎯Background 
+---
 Data-centric engineering encourages industries to recognise what can be achieved by utilising data at scale and adopting data-centric practices as standard.
 Building on the successes of the LRF-Turing Strategic Partnership, and creation of DCE as a genuine discipline, there is the need to accelerate community building to establish a “Commonwealth of Turing Talents” which capitalises on research strengths from across the 
 Turing, and also connect further into data science and engineering communities in the UK and overseas. 
@@ -20,9 +20,9 @@ of this effort.
 We also want to be flexible in meeting the growing interest from industry by working with a bigger cross-section of industry partners through a wider variety of mechanisms. We want to stimulate new investment and sectors through showcasing the latest research and acting as 
 a trusted broker between industry, academia, and regulators.
 
-🎯Project members
+🎯DCE Team Delivery
 ---
-Meet the delivery Team ![DCE Delivery team](https://github.com/alan-turing-institute/dce-community/blob/main/src/visualisation/DCE_Programme_Delivery.jpg)
+![DCE Delivery team](https://github.com/alan-turing-institute/dce-community/blob/main/src/visualisation/DCE_Programme_Delivery.jpg)
 
 🎯 Projects
 ---
