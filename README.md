@@ -20,7 +20,7 @@ of this effort.
 We also want to be flexible in meeting the growing interest from industry by working with a bigger cross-section of industry partners through a wider variety of mechanisms. We want to stimulate new investment and sectors through showcasing the latest research and acting as 
 a trusted broker between industry, academia, and regulators.
 
-🎯 Communication channel
+🎯 Communication channels
 ---
 - Visit [DCE website](https://www.turing.ac.uk/research/research-programmes/data-centric-engineering) for more details on the programme, our projects and the community members involved in.
 - We send out a newsletter which includes the programme updates and opportunities and jobs, events and funding calls from both The Alan Turing Institute and DCE. You can sign up [here]()
@@ -29,11 +29,6 @@ a trusted broker between industry, academia, and regulators.
 🎯DCE - Team 
 ---
 ![DCE Delivery team](https://github.com/alan-turing-institute/dce-community/blob/main/src/visualisation/DCE_Programme_Delivery.jpg)
-
-🎯 Events
----
-- links to calendars, newletters?
-
 
 
 🎯 Resources
@@ -64,6 +59,8 @@ DCE community map
 📫 Contact
 ---
 
+This repository is maintained by Gabin Kayumbi, Senior Research Community Manager (SRCM) of Data Centric Engineering (DCE).
+*Please create [an issue](../../issues) to report any bug, or share suggestions for the development of this project.*
 For any organisation related queries or concerns, you can directly reach out to Gabin Kayumbi by emailing [gkayumbi@turing.ac.uk](mailto:gkayumbi@turing.ac.uk).
 
 ♻️ License
