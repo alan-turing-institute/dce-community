@@ -20,7 +20,13 @@ of this effort.
 We also want to be flexible in meeting the growing interest from industry by working with a bigger cross-section of industry partners through a wider variety of mechanisms. We want to stimulate new investment and sectors through showcasing the latest research and acting as 
 a trusted broker between industry, academia, and regulators.
 
-🎯DCE Team Delivery
+🎯 Communication channel
+---
+- Visit [DCE website](https://www.turing.ac.uk/research/research-programmes/data-centric-engineering) for more details on the programme, our projects and the community members involved in.
+- We send out a newsletter which includes the programme updates and opportunities and jobs, events and funding calls from both The Alan Turing Institute and DCE. You can sign up [here]()
+- You can join our [Slack Workspace]() to connect with the team and the wider community
+  
+🎯DCE - Team 
 ---
 ![DCE Delivery team](https://github.com/alan-turing-institute/dce-community/blob/main/src/visualisation/DCE_Programme_Delivery.jpg)
 
@@ -28,10 +34,7 @@ a trusted broker between industry, academia, and regulators.
 ---
 - links to calendars, newletters?
 
-🎯 Communication channel
----
-- External
-- Internal
+
 
 🎯 Resources
 ---
