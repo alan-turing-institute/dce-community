@@ -26,7 +26,7 @@ a trusted broker between industry, academia, and regulators.
 
 🎯 Resources
 ---
-DCE community map
+![Presenting DCE](https://github.com/alan-turing-institute/dce-community/blob/main/src/visualisation/DCE_Presentation.pptx)
 
 🎯 Community Roadmap
 ---
