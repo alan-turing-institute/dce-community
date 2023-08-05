@@ -24,14 +24,6 @@ a trusted broker between industry, academia, and regulators.
 ---
 ![DCE Delivery team](https://github.com/alan-turing-institute/dce-community/blob/main/src/visualisation/DCE_Programme_Delivery.jpg)
 
-🎯 Projects
----
-Current 
-
-Past
-
-Future
-
 🎯 Events
 ---
 - links to calendars, newletters?
