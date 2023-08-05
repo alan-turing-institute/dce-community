@@ -22,7 +22,7 @@ a trusted broker between industry, academia, and regulators.
 
 🎯Project members
 ---
-ORGANIGRAM + pictures ?
+Meet the delivery Team ![DCE Delivery team](https://github.com/alan-turing-institute/dce-community/blob/main/src/visualisation/DCE_Programme_Delivery.jpg)
 
 🎯 Projects
 ---
