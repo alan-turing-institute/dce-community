@@ -31,7 +31,7 @@ a trusted broker between industry, academia, and regulators.
 🎯 Community Roadmap
 ---
 
-- [ ] Add a README file ✅
+- [ ] Add a README file
 - [ ] Add a [CONTRIBUTING](CONTRIBUTING.md) file
 - [ ] Add a [LICENSE](LICENSE.md)
 - [ ] Add a [Code of Conduct](CODE_OF_CONDUCT.md)
