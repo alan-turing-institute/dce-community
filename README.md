@@ -22,11 +22,11 @@ a trusted broker between industry, academia, and regulators.
   
 🎯The DCE - Team 
 ---
-![DCE Delivery team](https://github.com/alan-turing-institute/dce-community/blob/main/src/visualisation/DCE_Programme_Delivery.jpg)
+![DCE Delivery team](data/DCE_Programme_Delivery.jpg)
 
 🎯 Resources
 ---
-[Presenting DCE](https://github.com/alan-turing-institute/dce-community/blob/main/src/visualisation/DCE_Presentation.pptx)
+[Presenting DCE](data/DCE_Presentation.pptx)
 
 🎯 Community Roadmap
 ---
