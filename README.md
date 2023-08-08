@@ -2,6 +2,7 @@
 
 Welcome to community repository for the Alan Turing [Data-Centric Engineering](https://www.turing.ac.uk/research/research-programmes/data-centric-engineering)📊 Here, you will find the programme and related documentation from our community.
 
+**The DCE community aims at expanding an open, inclusive and empowering network of affiliated members around data-centric engineering**
 
 🎯Background 
 ---
