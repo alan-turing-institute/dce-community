@@ -20,6 +20,7 @@ a trusted broker between industry, academia, and regulators.
 - Visit [DCE website](https://www.turing.ac.uk/research/research-programmes/data-centric-engineering) for more details on the programme, our projects and the community members involved in.
 - We send out a newsletter which includes the programme updates and opportunities and jobs, events and funding calls from both The Alan Turing Institute and DCE. The Turing Data-Centric Engineering (DCE) community mailing list provides regular updates on activity within the Turing DCE community and connected partners. You can sign up [here](https://www.turing.ac.uk/research/research-programmes/data-centric-engineering#introduction)
 - You can join our [Slack Workspace]() to connect with the team and the wider community
+- You can communicate with the whole community via dceCOMMUNITY@turing.ac.uk
   
 🎯 Resources
 ---
