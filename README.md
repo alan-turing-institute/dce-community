@@ -38,6 +38,11 @@ This repository is maintained by Gabin Kayumbi, Senior Research Community Manage
 *Please create [an issue](../../issues) to report any bug, or share suggestions for the development of this project.*
 For any organisation related queries or concerns, you can directly reach out to Gabin Kayumbi by emailing [gkayumbi@turing.ac.uk](mailto:gkayumbi@turing.ac.uk).
 
+🤗 Code of Conduct
+---
+
+The DCE is dedicated to building a welcoming, diverse, and safe community. We expect everyone participating in the DCE community to abide by our [**Code of Conduct**](CODE_OF_CONDUCT.md). Please read it. Please follow it. In the DCE, we work hard to build each other up and create amazing things together. 💪
+
 ♻️ License
 ---
 
