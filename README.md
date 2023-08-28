@@ -15,21 +15,32 @@ of this effort.
 We also want to be flexible in meeting the growing interest from industry by working with a bigger cross-section of industry partners through a wider variety of mechanisms. We want to stimulate new investment and sectors through showcasing the latest research and acting as 
 a trusted broker between industry, academia, and regulators.
 
-🎯 Communication channels
+📟 Communication channels
 ---
 - Visit [DCE website](https://www.turing.ac.uk/research/research-programmes/data-centric-engineering) for more details on the programme, our projects and the community members involved in.
 - We send out a newsletter which includes the programme updates and opportunities and jobs, events and funding calls from both The Alan Turing Institute and DCE. The Turing Data-Centric Engineering (DCE) community mailing list provides regular updates on activity within the Turing DCE community and connected partners. You can sign up [here](https://www.turing.ac.uk/research/research-programmes/data-centric-engineering#introduction)
 - You can join our [Slack Workspace]() to connect with the team and the wider community
 - You can communicate with the whole community via dceCOMMUNITY@turing.ac.uk
   
-🎯 Resources
+📚 Resources
 ---
 [Presenting DCE](data/DCE_Presentation.pptx)
 
-🎯 Community Roadmap
+🌌 Community Roadmap
 ---
 
-[Will be added]
+Short-term
+- Map stakeholders in industry and academia to understand community expertise and needs across the research and user community 
+- Facilitate networking and building connections amongst the community to help boost knowledge exchange and skills development
+- Consolidate emerging international partnerships, developed during the first phase of our LRF-Turing Strategic Partnership
+- Continue to promote the DCE Journal published by Cambridge University Press
+
+Medium-term 
+- Facilitate the growth of meaningful partnerships to accelerate translation and adoption of outputs and outcomes from DCE research, particularly in safety-critical sectors
+- Identify new partners that will help bring data science, AI and DCE to low-income countries, ensuring these international communities are equipped with the tools needed to adopt safe practices at the interface between data science, AI and engineering, as they grow 
+- Support the creation of open-source training materials that can help upskilling in data science and AI across communities 
+- Collaborate with professional bodies in engineering, by promoting the values and benefits of DCE, helping to increase data science and AI methods and tools adoption and facilitate knowledge exchange
+
 
 📫 Contact
 ---
