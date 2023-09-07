@@ -2,16 +2,16 @@
 
 Welcome to community repository for the Alan Turing [Data-Centric Engineering](https://www.turing.ac.uk/research/research-programmes/data-centric-engineering)📊 Here, you will find the programme and related documentation from our community.
 
-Research communities are an excellent space for fostering collaboration among internal and external stakeholders. They bring members with different knowledge perspectives together and strengthen their capacity to work and learn creatively together. Hence, **The DCE community aims at growing an open, inclusive, and empowering network of affiliated members around data-centric engineering**	by establishing a “Commonwealth of Talents” which capitalises on research strengths from across the Turing, and also connect further into data science and engineering communities in the UK and overseas. It is increasingly engaging and collaborating with partners both within the UK, as well as across borders, and with other major international foundations. whom with there are also opportunities to collaborate with
+Research communities are an excellent space for fostering collaboration among internal and external stakeholders. They bring members with different knowledge perspectives together and strengthen their capacity to work and learn creatively together. Hence, **The DCE community aims at growing an open, inclusive, and empowering network of affiliated members around data-centric engineering**	by establishing a “Commonwealth of Talents” which capitalises on research strengths from across the Turing, and also connect further into data science and engineering communities in the UK and overseas. It is increasingly engaging and collaborating with partners both within the UK, as well as across borders, and with other major international foundations whom with there are also opportunities to collaborate with.
 
 🎯Background 
 ---
-Data-centric engineering encourages industries to recognise what can be achieved by utilising data at scale and adopting data-centric practices as standard.
+DCE wants to develop standards, grow communities and nurture researchers' interest in translation research. Data-centric engineering encourages industries to recognise what can be achieved by utilising data at scale and adopting data-centric practices as standard.
 Building on the successes of the LRF-Turing Strategic Partnership, and creation of DCE as a genuine discipline, there is the need to accelerate community building to establish a “Commonwealth of Turing Talents” which capitalises on research strengths from across the 
 Turing, and also connect further into data science and engineering communities in the UK and overseas. 
 DCE community crosses disciplines, sectors, and geographies, and we want it to be as  inclusive as possible. We want to expand our community so that we continue to attract the best researchers from across the UK, foster national and international collaboration. Reassessing how we 
 work with universities to ensure we maximise on the UK’s full potential will be a cornerstone 
-of this effort.
+of this effort. 
 We also want to be flexible in meeting the growing interest from industry by working with a bigger cross-section of industry partners through a wider variety of mechanisms. We want to stimulate new investment and sectors through showcasing the latest research and acting as 
 a trusted broker between industry, academia, and regulators.
 
