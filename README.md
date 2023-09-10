@@ -4,7 +4,7 @@ Welcome to community repository for the Alan Turing [Data-Centric Engineering](h
 
 Research communities are an excellent space for fostering collaboration among internal and external stakeholders. They bring members with different knowledge perspectives together and strengthen their capacity to work and learn creatively together. **The DCE community aims at growing an open, inclusive, and empowering network of affiliated members around data-centric engineering**	by establishing a “Commonwealth of Talents” which capitalises on research strengths from across the Turing, and also connect further into data science and engineering communities in the UK and overseas.
 
-We hope to build a well-connected community that will create a conducive environment, that enables the transfer and exchange of knowledge, encourages contributions, and builds and demonstrates proof points.
+We hope to grow a well-connected community that will create a conducive environment, that enables the transfer and exchange of knowledge, encourages contributions, and builds and demonstrates proof points.
 
 🎯Background 
 ---
