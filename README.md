@@ -1,6 +1,6 @@
 # Data-Centric Engineering Community (DCE-Community)
 
-Welcome to community repository for the Alan Turing [Data-Centric Engineering](https://www.turing.ac.uk/research/research-programmes/data-centric-engineering)📊 Here, you will find the programme and related documentation from our community.
+Welcome to the community repository for The Alan Turing [Data-Centric Engineering](https://www.turing.ac.uk/research/research-programmes/data-centric-engineering)📊 Here, you will find the programme and related documentation from our community.
 
 Research communities are an excellent space for fostering collaboration among internal and external stakeholders. They bring members with different knowledge perspectives together and strengthen their capacity to work and learn creatively together. **The DCE community aims at growing an open, inclusive, and empowering network of affiliated members around data-centric engineering**	by establishing a “Commonwealth of Talents” which capitalises on research strengths from across the Turing, and also connect further into data science and engineering communities in the UK and overseas.
 
