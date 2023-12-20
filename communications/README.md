@@ -4,6 +4,7 @@ Here are recommendations of directories (main bullet points) and files (sub-bull
 
 * [ ] Communications channels
 * [ ] Onboarding materials
+* [ ] Meeting Patterns
 * [ ] Meeting notes - provide a template
 * [ ] Main contacts - be careful of GDPR rules when sharing details
 * [ ] Regular updates - weekly, bi-weekly or monthly announcements like bulletin or newsletter
