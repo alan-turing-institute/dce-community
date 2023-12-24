@@ -14,7 +14,9 @@ Browse the following community documents – your feedback is very welcome and e
 🎯DCE Community Vision
 ---
 
-DCE aims to develop a decentralised structure that fosters autonomy and flexibility among researchers and potentially lead to a diverse range of research directions. However, it keeps the identity of a community of practice, where members involved in research and para-research come together to share knowledge, experiences, and best practices. However, it also keeps the identity of a community of practice, where members involved in research and para-research come together to share knowledge, experiences, and best practices. DCE community promotes continuous learning and skill development in data-centric engineering with the underpinning practices of open science culture: transparency, collaboration, and sharing of research output. DCE community promotes continuous learning and skill development in data-centric engineering with the underpinning values and practices of open science culture: transparency, collaboration, and sharing of research output.
+DCE aims to develop a decentralised structure that fosters autonomy and flexibility among researchers and potentially lead to a diverse range of research directions. However, it keeps the identity of a community of practice, where members involved in research and para-research come together to share knowledge, experiences, and best practices. However, it also keeps the identity of a community of practice, where members involved in research and para-research come together to share knowledge, experiences, and best practices. 
+
+DCE community promotes continuous learning and skill development in data-centric engineering with the underpinning values and practices of open science culture: transparency, collaboration, and sharing of research output.
 
 📟 Connect with the DCE Community
 ---
