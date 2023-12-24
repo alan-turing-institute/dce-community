@@ -2,12 +2,14 @@
 
 Welcome to the community repository for The Alan Turing [Data-Centric Engineering](https://www.turing.ac.uk/research/research-programmes/data-centric-engineering). Here, you will find the community documentation and related information from DCE.
 
-DCE is an exceptional area of research and development, with enormous opportunities to innovate through collaboration among stakeholders both at the Turing Institute and beyond. 
-DCE has also fostered an array of scientific research projects that have brought together individuals with diverse knowledge and perspectives, providing opportunities for stakeholders from different sectors to collaborate on work that has a positive real-world impact.
-At the heart of this is the DCE community, dedicated to cultivating **an open, inclusive, and empowering network of affiliated members around data-centric engineering**. 
-Our vision is to establish a "Wealth of Talents," leveraging research strengths from across the Turing while extending our connections into the broader landscape of data science and engineering communities, both in the UK and overseas.
+Bringing together world-leading academic institutions and major industrial partners from across the engineering sector, to address new challenges in data-centric engineering. 
 
-We aspire to create build and nurture a well-connected community that will create a conducive environment, that enables the transfer and exchange of knowledge, encourages active contributions and exemplifies proof points -- setting the stage for a thriving scientific network that fuels innovation and collaboration.
+As an innovative research and knowledge program, DCE thrives on its ability to unite individuals, making community management and building a cornerstone of its success. Positioned as one of its four strategic pillars, community engagement in DCE is both a goal and a driving force behind DCE's generative function. The art of cultivating and sustaining the DCE community begins with stakeholder mapping to help us identify who is in the DCE community and its broader ecosystem. We have further mapped where people interact and how, as well as the opportunities we can leverage to strengthen international stakeholder engagement, collaboration, and the long-term impact of DCE in the UK and worldwide. Stakeholders mapping has led to a journey of understanding the current state, such as the structural composition of the community, interaction patterns, and ways of working. The current state has further allowed us to ask questions such as our desired ways of working, how we can evolve and open our operational modes, and what impact we want to have in our community and the broader society.
+
+This initial piece of community documentation work has allowed us to capture the narrative of the community's present while envisioning its future trajectory with involvement from DCE leaders, researchers, and community members through 1:1 meetings and group-based discussions at community events.
+
+Browse the following community documents – your feedback is very welcome and encouraged!
+
 
 🎯Background 
 ---
