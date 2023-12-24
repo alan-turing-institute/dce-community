@@ -11,20 +11,10 @@ This initial piece of community documentation work has allowed us to capture the
 Browse the following community documents – your feedback is very welcome and encouraged!
 
 
-🎯Background 
+🎯DCE Community Vision
 ---
 
-DCE aims to set standards, build diverse communities, and nurture researchers' interest in translational research in Data-Centric Engineering. We are an open and inclusive community that spans disciplines, sectors, and geographies. 
-We are committed to expanding it through engagement with international stakeholders. 
-We seek to attract and collaborate with top researchers nationwide, fostering collaboration on both national and international levels. 
-A key focus is optimising and strengthening our partnership with universities to realise the full potential of AI in data-centric engineering.
-
-DCE will work across the following programme themes: digital manufacturing, critical infrastructure, marine and maritime, energy systems and humanities, social sciences and arts. 
-Our work will contribute to the Turing 2.0 Grand Challenges on Environment and Sustainability,
-Defence and National Security and Health, in alignment with the Turing Institute's strategy.
-
-Building on the DCE programme's research work, outcomes and impact in its first phase, we will continue to adapt to industry needs through collaboration with a broader range of cross-sector partners. 
-In the realm of data-centric engineering, we champion the widespread adoption of open data practices, standards and skills, aiming to showcase the latest research and act as a catalyst for new investments and sectors.
+DCE aims to develop a decentralised structure that fosters autonomy and flexibility among researchers and potentially lead to a diverse range of research directions. However, it keeps the identity of a community of practice, where members involved in research and para-research come together to share knowledge, experiences, and best practices. However, it also keeps the identity of a community of practice, where members involved in research and para-research come together to share knowledge, experiences, and best practices. DCE community promotes continuous learning and skill development in data-centric engineering with the underpinning practices of open science culture: transparency, collaboration, and sharing of research output. DCE community promotes continuous learning and skill development in data-centric engineering with the underpinning values and practices of open science culture: transparency, collaboration, and sharing of research output.
 
 📟 Connect with the DCE Community
 ---
