@@ -28,7 +28,6 @@ DCE community promotes continuous learning and skill development in data-centric
 📚 Community Resources
 ---
 
-- [Presenting DCE](data/DCE_Presentation.pptx)
 - Upcoming:
   - Stakeholder map - overview
   - Communications Channels
@@ -56,9 +55,9 @@ Medium-term
 📫 Contact
 ---
 
-This repository is maintained by Gabin Kayumbi, Senior Research Community Manager (SRCM) of Data Centric Engineering (DCE).
+This repository is maintained by Gabin Kayumbi, Senior Research Community Manager (SRCM) and Fran Gomez Medina Research Application Manager (RAM), of Data Centric Engineering (DCE)
 *Please create [an issue](../../issues) to report any bug, or share suggestions for the development of this project.*
-For any organisation-related queries or concerns, you can directly reach out to Gabin Kayumbi by emailing [gkayumbi@turing.ac.uk](mailto:gkayumbi@turing.ac.uk).
+For any organisation-related queries or concerns, you can directly reach out to Gabin Kayumbi or Fran Gomez Medina by emailing [gkayumbi@turing.ac.uk](mailto:gkayumbi@turing.ac.uk) or [fgomezmedina@turing.ac.uk](mailto:fgomezmedina@turing.ac.uk)
 
 🤗 Code of Conduct
 ---
