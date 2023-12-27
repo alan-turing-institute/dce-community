@@ -2,7 +2,7 @@
 
 Welcome to the community repository for The Alan Turing [Data-Centric Engineering](https://www.turing.ac.uk/research/research-programmes/data-centric-engineering). Here, you will find the community documentation and related information from DCE.
 
-Bringing together world-leading academic institutions and major industrial partners from across the engineering sector, to address new challenges in data-centric engineering. 
+Our mission is to __Bring together world-leading academic institutions and major industrial partners from across the engineering sector, to address new challenges in data-centric engineering.__ 
 
 As an innovative research and knowledge program, DCE thrives on its ability to unite individuals, making community management and building a cornerstone of its success. Positioned as one of its four strategic pillars, community engagement in DCE is both a goal and a driving force behind DCE's generative function. The art of cultivating and sustaining the DCE community begins with stakeholder mapping to help us identify who is in the DCE community and its broader ecosystem. We have further mapped where people interact and how, as well as the opportunities we can leverage to strengthen international stakeholder engagement, collaboration, and the long-term impact of DCE in the UK and worldwide. Stakeholders mapping has led to a journey of understanding the current state, such as the structural composition of the community, interaction patterns, and ways of working. The current state has further allowed us to ask questions such as our desired ways of working, how we can evolve and open our operational modes, and what impact we want to have in our community and the broader society.
 
