@@ -3,7 +3,6 @@ To Communicate within DCE Community and between the community and the wider publ
 - Slack: #data-centric-eng 
 ### Newsletter
 - [new link to be provided]
-Repositories 
 ### Website
 - [Data-Centric Engineering](https://www.turing.ac.uk/research/research-programmes/data-centric-engineering)
 ### Github
