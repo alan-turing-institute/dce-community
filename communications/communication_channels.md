@@ -8,6 +8,8 @@ To Communicate within DCE Community and between the community and the wider publ
 ### Github
 - [Github (Public)](https://github.com/alan-turing-institute/dce-community)
 - [Sharepoint (Private)](https://thealanturininstitute.sharepoint.com/sites/dceCOMMUNITY)
+### Zenodo DCE community
+- [community repository](https://zenodo.org/communities/data-centric-eng?q=&l=list&p=1&s=10&sort=newest)
 ### Email 
 - Group emailing: dceCOMMUNITY@turing.ac.uk
 - Email contacts: gkayumbi@turing.ac.uk; fgomezmedina@turing.ac.uk
