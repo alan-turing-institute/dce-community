@@ -2,16 +2,6 @@
 
 Thank you for taking the time to contribute to this project. 🎉
 
-<!--delete sentences below when reusing this repository-->
-
-When reusing this repository please replace the content highlighted in bold with the information that best represents your project.
-As a template, this repository can be directly copied to start a new project with standard files and processes required in any collaborative data science and research project.
-Although we also use open research practices by sharing this repository public for further reuse in different projects, users can select the appropriate license and access levels for their collaborators.
-
-To learn more about why we recommend creating a `CONTRIBUTING.md` file, please read the [Contributors and Communication Pathways chapter](https://the-turing-way.netlify.app/project-design/project-repo/project-repo-contributors.html) in *The Turing Way* Guide for Project Design.
-
-<!--delete sentences above this line when reusing this repository-->
-
 The Data-Centric Engineering repository is developed to demonstrate the practical integration of open research practices and knowledge sharing on the collaborative or shared online repository.
 
 This project is being developed for the DCE community and invites contributions from anyone interested in data-centric engineering who would like to get involved.
