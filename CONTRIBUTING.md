@@ -12,9 +12,9 @@ To learn more about why we recommend creating a `CONTRIBUTING.md` file, please r
 
 <!--delete sentences above this line when reusing this repository-->
 
-The **Reproducible Project Template** repository is developed under ***[The Turing Way](https://github.com/alan-turing-institute/the-turing-way)* to demonstrate the practical integration of reproducibility practices on the collaborative or shared online repository**.
+The Data-Centric Engineering repository is developed to demonstrate the practical integration of open research practices and knowledge sharing on the collaborative or shared online repository.
 
-This project is being developed **openly** and invites contributions from **anyone interested** in reproducible data science who would like to get involved.
+This project is being developed for the DCE community and invites contributions from anyone interested in data-centric engineering who would like to get involved.
 You can suggest topics to include in this repository, report mistakes/bugs, create Pull Requests to fix an error, offer resources or help develop or review the training materials.
 
 We have a [Code of Conduct](./CODE_OF_CONDUCT.md) that applies to all the activities related to this project.
@@ -62,7 +62,7 @@ Please open a GitHub issue to suggest a new topic, contribute code, or let us kn
 📫 Contact
 ---
 
-For any organisation related queries or concerns, you can directly reach out to **Malvika Sharan by emailing [msharan@turing.ac.uk](mailto:msharan@turing.ac.uk)**.
+For any organisation related queries or concerns, you can directly reach out to Gabin Kayumbi or Francisco Gomez Medina by emailing [gkayumbi@turing.ac.uk](mailto:gkayumbi@turing.ac.uk) or [fgomezmedina@turing.ac.uk](mailto:fgomezmedina@turing.ac.uk).
 
 ♻️ License
 ---
