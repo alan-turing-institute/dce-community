@@ -9,16 +9,6 @@ or unacceptable behaviour by other participants.
 We are committed to providing a welcoming, collaborative and inspiring experience 
 for all and expect our code of conduct to be honoured.
 
-<!--Delete these lines when reusing this repository-->
-The Code of Conduct used in this document is selected from the options provided by GitHub that reuses Contributor Covenant's version (add a new file -> name that `CODE_OF_CONDUCT.md` -> click on 'Choose a code of conduct template' -> select from the options that best suits the requirements in your project).
-<img width="1379" alt="image" src="https://user-images.githubusercontent.com/5370471/160671868-b936eaea-355e-45e2-b188-a9221567056a.png">
-
-We have further adopted the language and content that reflects our values and needs in the project.
-To learn more about why we recommend creating a CODE_OF_CONDUCT.md file, please read the [Participation Guidelines](https://the-turing-way.netlify.app/project-design/project-repo/project-repo-participation.html) chapter in *The Turing Way* Guide for Project Design.
-It is recommended to select and adapt a well established Code of Conduct. Many openly developed projects have a Code of Conduct in place that often is openly licensed and can be re-used and adapted for your project. 
-*The Turing Way* [Code of Conduct](https://github.com/alan-turing-institute/the-turing-way/blob/main/CODE_OF_CONDUCT.md) is one example of a Code of Conduct built on various existing ones and can be adapted further.
-<!--Delete these lines when reusing this repository-->
-
 ### Diversity Statement
 
 We encourage everyone to participate and are committed to building a project
@@ -102,12 +92,10 @@ decisions when appropriate.
 ## Reporting Incident
 
 If you experience or witness unacceptable behaviour, or have any other concerns, please report it 
-by contacting the Team Lead, Malvika Sharan (email: msharan@turing.ac.uk). Malvika may involve
-the Tools, Practices and Systems Programme Director, Kirstie Whitaker when incidents are perceived 
+by contacting DCE Senior Research Community Manager, Gabin Kayumbi (email: gkayumbi@turing.ac.uk) or DCE Research Application Manager, Francisco Gomez Medina (email:fgomezmedina@turing.ac.uk). Gabin and Francisco may involve the DCE Programme Director, Adam Sobey when incidents are perceived 
 as difficult (not straightforward) except when any potential conflict of interest may arise.
 
-To report an issue involving the team lead, please email directly to the Tools, Practices and Systems 
-Programme Director, Kirstie Whitaker (email: kwhitaker@turing.ac.uk). 
+To report an issue involving either or both DCE Senior Research Community Manager and Research Application Manager, please email directly to the DCE Programme Director, Adam Sobey (email:asobey@turing.ac.uk). 
 
 In your report please include:
 
