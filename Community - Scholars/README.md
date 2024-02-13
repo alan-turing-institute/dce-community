@@ -1,4 +1,4 @@
-Welcome to our porfolio of Data-Centric-Engineering exciting projects (PAST-PRESENT-FUTURE) 
+Welcome to this panorama of exciting initiatives, activities and projects we are involved in at DCE ! Contact us for more details. 
 
 | Project / Initiative | Synopsis | DCE main stakeholders | Priority | Status | 
 | -------- | -------- | -------- | -------- |-------- |
