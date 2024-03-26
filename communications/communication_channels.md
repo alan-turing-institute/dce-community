@@ -3,7 +3,8 @@ To Communicate within DCE Community and between the community and the wider publ
 - Slack: #data-centric-eng 
 ### Newsletter
 - Sign up to our [mailing list](https://www.turing.ac.uk/research/research-programmes/data-centric-engineering) 
-- [Jan 2024](http://elink.turing.ac.uk/m/1/59207972/p1-b24031-9b3eaf6388b643d3b02e29de60ba3007/1/53/7acf77b9-a3c2-4193-b692-b4a4dcf2caf2)  
+- [Jan 2024](http://elink.turing.ac.uk/m/1/59207972/p1-b24031-9b3eaf6388b643d3b02e29de60ba3007/1/53/7acf77b9-a3c2-4193-b692-b4a4dcf2caf2)
+- [Feb 2024](http://elink.turing.ac.uk/m/1/59207972/p1-b24060-fcc1ed7ee0aa44fd91f9f822f7dfbf20/1/358/b1a49ca5-fb22-44a3-b8bb-d34228929d55)
 ### Website
 - [Data-Centric Engineering](https://www.turing.ac.uk/research/research-programmes/data-centric-engineering)
 ### Github
