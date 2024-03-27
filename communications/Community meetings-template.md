@@ -1,7 +1,7 @@
 These are the current convening patterns: 
 
 - DCE Community meetings. Monthly
-    - [Meetings template](https://hackmd.io/OaYxZlLpTu-1vke1DlZyBg?view) 
+    - [Meetings template](https://hackmd.io/Qvxk1RMXSDSNoCJh50DXTA)
     - [Archives](https://hackmd.io/mOjfOz4HRX2V8Yria50HJg?view)
 - Core team meetings (“DCE catch-up”): Programme Director + PA, Programme Management Unit, Senior Research Community Manager (SRCM), Research Application Manager (RAM), AI Standard Hub Research Application Manager, Theme Leads
 -	Weekly PMU meetings (Programme manager, Project manager, Programme coordinator, SRCM)
