@@ -2,9 +2,14 @@ To Communicate within DCE Community and between the community and the wider publ
 ### Instant Messaging 
 - Slack: #data-centric-eng 
 ### Newsletter
-- Sign up to our [mailing list](https://www.turing.ac.uk/research/research-programmes/data-centric-engineering) 
-- [Jan 2024](http://elink.turing.ac.uk/m/1/59207972/p1-b24031-9b3eaf6388b643d3b02e29de60ba3007/1/53/7acf77b9-a3c2-4193-b692-b4a4dcf2caf2)
-- [Feb 2024](http://elink.turing.ac.uk/m/1/59207972/p1-b24060-fcc1ed7ee0aa44fd91f9f822f7dfbf20/1/358/b1a49ca5-fb22-44a3-b8bb-d34228929d55)
+- Sign up to our [mailing list](https://www.turing.ac.uk/research/research-programmes/data-centric-engineering)
+- [Mar 2024](https://zenodo.org/api/records/10934040/draft/files/DCECommunityUpdateMarch2024.pdf/content)
+- [Feb  2024](https://zenodo.org/records/10934040/files/DCE%20Community%20Update%202024-02%20February.msg?download=1&preview=1)
+- [Jan  2024](https://zenodo.org/records/10934040/files/DCE%20Community%20Update%202024-01%20January.msg?download=1&preview=1)
+- [Sept 2023](https://zenodo.org/records/10934040/files/DCE%20Community%20Update%202023-09%20September.msg?download=1&preview=1)
+- [June 2023](https://zenodo.org/records/10934040/files/DCE%20Community%20Update%202023-06%20June.msg?download=1&preview=1)
+- [May  2023](https://zenodo.org/records/10934040/files/DCE%20Community%20Update%202023-05%20May.msg?download=1&preview=1)
+- [Mar  2023](https://zenodo.org/records/10934040/files/DCE%20Community%20Update%202023-03%20March.msg?download=1&preview=1)
 ### Website
 - [Data-Centric Engineering](https://www.turing.ac.uk/research/research-programmes/data-centric-engineering)
 ### Github
