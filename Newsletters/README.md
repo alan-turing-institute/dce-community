@@ -1,2 +1,2 @@
 This is Data-Centric Engineering community's newsletters archive.
-Feel free to contact us if for more details.
+Would you experience any issue in visualising its content, do not hesitate to contact us.
