@@ -1,6 +1,6 @@
 To Communicate within DCE Community and between the community and the wider public pelase use the following platforms and channels:
 ### Instant Messaging 
-- Slack: #data-centric-eng
+- Slack: [#data-centric-eng](https://alanturinginstitute.enterprise.slack.com/archives/CLAQJT5CN)
 
 ### Website
 - [Data-Centric Engineering](https://www.turing.ac.uk/research/research-programmes/data-centric-engineering)
